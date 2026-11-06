@@ -1,0 +1,4 @@
+timestamp,source,event,details
+2026-11-06T09:05:00Z,identity,Sign-in succeeded,Account analyst-demo from 192.0.2.21
+2026-11-06T09:03:00Z,identity,Sign-in failed,Account analyst-demo from 192.0.2.21
+2026-11-06T09:04:00Z,identity,Sign-in failed,Account analyst-demo from 192.0.2.21
